@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\bin\Debug\net10.0\adaptacion_curricular.exe
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\bin\Debug\net10.0\adaptacion_curricular.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\bin\Debug\net10.0\adaptacion_curricular.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\bin\Debug\net10.0\adaptacion_curricular.dll
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\bin\Debug\net10.0\adaptacion_curricular.pdb
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.dll
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\refint\adaptacion_curricular.dll
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.pdb
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\adaptacion_curricular.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\adaptacion_curricular\adaptacion_curricular\obj\Debug\net10.0\ref\adaptacion_curricular.dll
